@@ -1,0 +1,21 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "Mongo DB based Social network API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node utils/seed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixbor/Social-Network-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixbor/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/felixbor/Social-Network-API#readme"
+}
