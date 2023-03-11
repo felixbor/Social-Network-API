@@ -52,10 +52,10 @@ const thoughtController = {
         if (!UserData) {
           return res
             .status(404)
-            .json({ message: "Thought created but no user with this id!" });
+            .json({ message: "Thought created but no user with this id found!" });
         }
 
-        res.json({ message: "Thought successfully created!" });
+        res.json({ message: "Thought  is successfully created!" });
       })
       .catch((err) => res.json(err));
   },
