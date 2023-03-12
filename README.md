@@ -8,7 +8,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contribution](#contribution)
 - [Questions](#questions)
 
 ## Description:
@@ -26,6 +25,7 @@ Project is built with:
 - Javascript
 - MongoDB
 - Mongoose
+- Moment
 
 ## Installation
 
@@ -35,6 +35,7 @@ To run this project,  follow next steps:
 - npm init
 - npm install express
 - npm install mongoose
+- npm install moment
 
 ## Usage
 
@@ -46,14 +47,17 @@ Then run node server.js or
 npm start
 ```
 
-#### Walkthrough Video
+## Walkthrough Video
 
-[ Users Walkthrough Video!]()
-[ Thougths Walkthrough Video!]()
-[ Friends Walkthrough Video!]()
-[ Reactions Walkthrough Video!]()
-
-#### Postman Screenshot
+[ Users Walkthrough Video!](https://youtu.be/V0fyEOfD00Q)
+--------
+[ Friends Walkthrough Video!](https://youtu.be/I3fv0yknUEg)
+--------
+[ Thougths Walkthrough Video!](https://youtu.be/Ym6FCgllQrM)
+--------
+[ Reactions Walkthrough Video!](https://youtu.be/MAQogcBd06o)
+--------
+## Postman Screenshot
 
 ![Screenshot](./utils/screenshots/postman.jpg)
 
@@ -61,9 +65,6 @@ npm start
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
 This project is licensed under MIT, for more information please visit [this website](https://opensource.org/licenses/MIT)
-
-## Contribution
-
 
 
 ## Questions
