@@ -59,7 +59,7 @@ npm start
 --------
 ## Postman Screenshot
 
-![Screenshot](./utils/screenshots/postman.jpg)
+![Screenshot](./public/screenshots/postman.jpg)
 
 ## License
 
